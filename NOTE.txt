@@ -1,0 +1,94 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    NOTE.txt                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: salassam <salassam@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2016/01/01 17:04:08 by salassam          #+#    #+#              #
+#    Updated: 2016/01/01 17:46:26 by salassam         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+------------------------ J00 -------------------------
+100%
+ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK |
+ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: OK |
+ex11: OK 
+------------------------ J01 -------------------------
+100%
+ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK |
+ex06: OK | ex07: OK | ex08: OK | ex09: OK
+------------------------ J02 -------------------------
+100%
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK |
+ex05: OK | ex06: OK | ex07: OK
+------------------------ J03 -------------------------
+100%
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK |
+ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK 
+------------------------ J04 -------------------------
+100%
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK |
+ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK
+------------------------ J05 -------------------------
+69%
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK |
+ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK |
+ex10: OK | ex11: OK | ex12: OK | ex13: OK | ex14: OK |
+ex15: OK | ex16: OK | ex17: Segmentation fault | ex18:
+Norme error | ex19: KO | ex20: Nothing turned in 
+------------------------ J06 -------------------------
+100%
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK
+------------------------ J07 -------------------------
+100%
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK |
+ex05: OK | ex06: OK | ex07: OK 
+------------------------ J08 -------------------------
+100%
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK |
+ex05: OK 
+------------------------ J09 -------------------------
+21%
+ex00: OK | ex01: KO | ex02: OK | ex03: OK | ex04: 
+Norme error | ex05: Norme error | ex06: Nothing turned
+in | ex07: Nothing turned in | ex08: Nothing turned in 
+| ex09: Nothing turned in | ex10: Nothing turned in | 
+ex11: Nothing turned in | ex12: Nothing turned in | 
+ex13: Nothing turned in | ex14: Nothing turned in | 
+ex15: Nothing turned in | ex16: Nothing turned in | 
+ex17: Nothing turned in | ex18: Nothing turned in | 
+ex19: Nothing turned in | ex20: OK | ex21: Nothing 
+turned in | ex22: Nothing turned in | ex23: OK 
+------------------------ J10 -------------------------
+85%
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK |
+ex05: OK | ex06: KO | ex07: Segmentation fault | ex08:
+ Segmentation fault | ex09: KO 
+------------------------ J11 -------------------------
+100%
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | 
+ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | 
+ex10: OK | ex11: OK | ex12: OK | ex13: OK | ex14: OK | 
+ex15: OK | ex16: OK | ex17: OK 
+------------------------ J12 -------------------------
+75%
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: 
+Norme error
+------------------------ J13 -------------------------
+60%
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | 
+ex05: OK | ex06: OK | ex07: Does not compile | ex08:
+Does not compile | ex09: Nothing turned in 
+------------------- Match-N-Match --------------------
+100%
+ex00: OK | ex01: OK 
+------------------------ BSQ -------------------------
+100%
+basic_tests: OK | functional_tests: OK 
+----------------------- Libft ------------------------
+125%
+libft_basics_1: 28/28 correct functions | 
+libft_basics_2: 24/24 correct functions | 
+libft_bonus: 6/6 correct functions 
