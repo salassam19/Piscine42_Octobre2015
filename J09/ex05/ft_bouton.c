@@ -12,5 +12,5 @@
 
 int	ft_bouton(int i, int j, int k)
 {
-	retrun (j);	
+	return (j);	
 }
