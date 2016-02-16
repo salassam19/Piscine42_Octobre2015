@@ -55,7 +55,7 @@ char	*ft_rot42(char *str)
 
 int	main()
 {
-	char str[] = "salim AsSAMeur";
+	char str[] = "";
 	printf("%s", ft_rot42(str));
 	return (0);
 }
